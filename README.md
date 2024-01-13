@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">I'm Noa<br><br>- 🔭 I’m working as full-stack developer<br>- 📚 I'm currently learning Laravel</p>
+<p align="left">I'm Noa<br><br>- 🔭 I’m working as a full-stack developer<br>- 📚 I'm currently learning Laravel</p>
 
 ###
 
